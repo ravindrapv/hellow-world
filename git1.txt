@@ -1,0 +1,4 @@
+1  Git is a type of version control system  that makes it easier to track changes to files
+2  Commits can be thought of as snapshots 
+3 , Git records information such as its size, creation time and last modification time in a file known as the index
+4  Modified, Stage, and Committed
